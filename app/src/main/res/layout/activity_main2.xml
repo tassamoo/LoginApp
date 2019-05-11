@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:context=".Main2Activity">
+
+
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:paddingTop="90dp"
+            android:paddingBottom="90dp"
+            android:background="@color/colorPrimary"
+            android:src="@drawable/ic_screen_lock_portrait"/>
+
+    <EditText
+            android:id="@+id/usr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/username"
+            android:textColorHint="#CCCCCC"
+            android:textColor="#000000"
+            android:inputType="text"
+            android:imeOptions="actionNext"/>
+
+    <EditText
+            android:id="@+id/pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password"
+            android:textColorHint="#CCCCCC"
+            android:textColor="#000000"
+            android:inputType="textPassword"
+            android:imeOptions="actionDone"/>
+    <Button
+            android:id="@+id/login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="@string/login"/>
+
+</android.support.v7.widget.LinearLayoutCompat>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/takhsan/AndroidStudioProjects/LoginApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/takhsan/.gradle/caches/transforms-2/files-2.1/608458ebc47dd09ef5f23609d0a3e112/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

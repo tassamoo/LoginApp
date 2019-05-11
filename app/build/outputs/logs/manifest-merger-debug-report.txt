@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/608458ebc47dd09ef5f23609d0a3e112/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/takhsan/.gradle/caches/transforms-2/files-2.1/d4a625d0e0fec081278fa7c63b72f6e9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/1ae50b687f358e7be07281bf2dea4706/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/31f9374e70ba41bd52288e9d5c905407/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/264329bc876dc5034d2956740bf2e1f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/17f4d39ac010de9717ed9bd73a73a3be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/1dfbb000f61ba92081ec4f32adcfccc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/418ae09041420a7c9c7cb0c2ed6e46c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/c18e3b56f32c2ff3ba50cc4c226b45f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/99ac7b23a915c57980330b2e503f03b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/76fc0e73147922d2683e5b218b42b9c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/7761cf2f5c1e9a84bdf12d6fde539c99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6806b8a81d38ec2d5d528b362391fc37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/e19c49e6c04232be15e19722fc3bc104/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/2b0e64dd600e701d69ac92e65dd5fbc0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/18813ab72eeecfa93bc29dd65ffca30a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6e75f38d6cb9d0af03daf7fe414081b4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/ef2ff6f97792dca680979e812c48e9ba/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/3b6377ce4d544995d03eee238a4d00a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/0027efdaab194fc3015bfcdac894e260/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/903a7855a898fad3efc3ef8a5fd7a78a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/a388938946e08e54ddb7f64394370c23/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/a0b0139a460824f531d509aa3a9b67d8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/9a35c0f2a0a87d96a844ea39413ef8c9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/80631dcf4569fddd4475cf76d59aa6d0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/b63f3c1e6dc3c350babfb2396cf7b441/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/128e61641c5f73727898ff6ea99ed118/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:3:11-41
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/takhsan/.gradle/caches/transforms-2/files-2.1/d4a625d0e0fec081278fa7c63b72f6e9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/takhsan/.gradle/caches/transforms-2/files-2.1/d4a625d0e0fec081278fa7c63b72f6e9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/18813ab72eeecfa93bc29dd65ffca30a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/18813ab72eeecfa93bc29dd65ffca30a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6e75f38d6cb9d0af03daf7fe414081b4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6e75f38d6cb9d0af03daf7fe414081b4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/18813ab72eeecfa93bc29dd65ffca30a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.example.loginapp.Main3Activity
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:12:9-13:20
+	android:name
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:12:19-48
+activity#com.example.loginapp.Main2Activity
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:14:9-15:20
+	android:name
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:14:19-48
+activity#com.example.loginapp.MainActivity
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/608458ebc47dd09ef5f23609d0a3e112/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/608458ebc47dd09ef5f23609d0a3e112/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/takhsan/.gradle/caches/transforms-2/files-2.1/d4a625d0e0fec081278fa7c63b72f6e9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/takhsan/.gradle/caches/transforms-2/files-2.1/d4a625d0e0fec081278fa7c63b72f6e9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/1ae50b687f358e7be07281bf2dea4706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/1ae50b687f358e7be07281bf2dea4706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/31f9374e70ba41bd52288e9d5c905407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/31f9374e70ba41bd52288e9d5c905407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/264329bc876dc5034d2956740bf2e1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/264329bc876dc5034d2956740bf2e1f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/17f4d39ac010de9717ed9bd73a73a3be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/17f4d39ac010de9717ed9bd73a73a3be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/1dfbb000f61ba92081ec4f32adcfccc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/1dfbb000f61ba92081ec4f32adcfccc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/418ae09041420a7c9c7cb0c2ed6e46c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/418ae09041420a7c9c7cb0c2ed6e46c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/c18e3b56f32c2ff3ba50cc4c226b45f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/c18e3b56f32c2ff3ba50cc4c226b45f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/99ac7b23a915c57980330b2e503f03b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/99ac7b23a915c57980330b2e503f03b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/76fc0e73147922d2683e5b218b42b9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/76fc0e73147922d2683e5b218b42b9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/7761cf2f5c1e9a84bdf12d6fde539c99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/7761cf2f5c1e9a84bdf12d6fde539c99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6806b8a81d38ec2d5d528b362391fc37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6806b8a81d38ec2d5d528b362391fc37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/e19c49e6c04232be15e19722fc3bc104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/e19c49e6c04232be15e19722fc3bc104/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/2b0e64dd600e701d69ac92e65dd5fbc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/2b0e64dd600e701d69ac92e65dd5fbc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/18813ab72eeecfa93bc29dd65ffca30a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/18813ab72eeecfa93bc29dd65ffca30a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6e75f38d6cb9d0af03daf7fe414081b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/6e75f38d6cb9d0af03daf7fe414081b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/ef2ff6f97792dca680979e812c48e9ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/ef2ff6f97792dca680979e812c48e9ba/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/3b6377ce4d544995d03eee238a4d00a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/3b6377ce4d544995d03eee238a4d00a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/0027efdaab194fc3015bfcdac894e260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/0027efdaab194fc3015bfcdac894e260/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/903a7855a898fad3efc3ef8a5fd7a78a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/903a7855a898fad3efc3ef8a5fd7a78a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/a388938946e08e54ddb7f64394370c23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/a388938946e08e54ddb7f64394370c23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/a0b0139a460824f531d509aa3a9b67d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/a0b0139a460824f531d509aa3a9b67d8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/9a35c0f2a0a87d96a844ea39413ef8c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/9a35c0f2a0a87d96a844ea39413ef8c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/80631dcf4569fddd4475cf76d59aa6d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/80631dcf4569fddd4475cf76d59aa6d0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/b63f3c1e6dc3c350babfb2396cf7b441/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/takhsan/.gradle/caches/transforms-2/files-2.1/b63f3c1e6dc3c350babfb2396cf7b441/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/128e61641c5f73727898ff6ea99ed118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/takhsan/.gradle/caches/transforms-2/files-2.1/128e61641c5f73727898ff6ea99ed118/AndroidManifest.xml:20:5-44
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/takhsan/AndroidStudioProjects/LoginApp/app/src/main/AndroidManifest.xml
